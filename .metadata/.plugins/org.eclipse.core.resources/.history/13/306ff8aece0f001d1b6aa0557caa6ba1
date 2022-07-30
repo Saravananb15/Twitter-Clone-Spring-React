@@ -1,0 +1,5 @@
+package com.tweetApp.Entity;
+
+public class LoginEntity {
+
+}

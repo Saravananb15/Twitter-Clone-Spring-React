@@ -1,0 +1,5 @@
+package com.tweetApp.Repository;
+
+public interface LoginRepository {
+
+}

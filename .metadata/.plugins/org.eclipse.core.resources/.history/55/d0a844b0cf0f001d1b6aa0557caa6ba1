@@ -1,0 +1,18 @@
+package com.tweetApp.Service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.tweetApp.Entity.LoginEntity;
+import com.tweetApp.Repository.LoginRepository;
+
+public class LoginServiceImpl implements LoginService{
+	
+	@Autowired
+	LoginRepository loginRepo;
+
+	@Override
+	public LoginEntity register(LoginEntity loginEntity) {
+		return null;
+	}
+
+}

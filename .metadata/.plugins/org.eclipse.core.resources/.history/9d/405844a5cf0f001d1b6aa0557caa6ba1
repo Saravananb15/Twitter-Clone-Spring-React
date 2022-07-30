@@ -1,0 +1,13 @@
+package com.tweetApp.Service;
+
+import com.tweetApp.Entity.LoginEntity;
+
+public class LoginServiceImpl implements LoginService{
+
+	@Override
+	public LoginEntity register(LoginEntity loginEntity) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
